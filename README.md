@@ -31,11 +31,11 @@ Desenvolver uma API REST que recebe transações e retorna estatísticas sob as 
 2. Calcular estatísticas dos últimos 60 segundos.
 3. Endpoint `POST /transacao` e `GET /estatistica`.
 
-*Para ver o escopo completo e original do desafio, consulte o arquivo [docs/escopo-desafio.pdf](./docs/escopo-desafio.pdf).*
+*Para ver o escopo completo e original do desafio, consulte o arquivo [docs/escopo-do-desafio-Itau.md](./docs/escopo-do-desafio-Itau.md).*
 
 ---
 
 ## 🛠️ Tecnologias
-- Java 17
+- Java 25
 - Spring Boot
 - Maven
